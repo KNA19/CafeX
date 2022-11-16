@@ -1,6 +1,6 @@
 # CafeX - Restaurant Management System
 
-This is a project done in completion to the Software Engineering course. <br> The framework used is Laravel 7.0. <br> The main focus was on the software and how it works on the backend.
+This is a project done in completion to the Software Engineering course. The framework used is Laravel 7.0. The main focus was on the software and how it works on the backend.
 
 ### Source Code(s):
 
